@@ -28,7 +28,7 @@
     style="height: 200px; width: 48%"
     title="Get streak stats for your profile at git.io/streak-stats"
     alt="Ganesh Reddy's streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshReddy0212&theme=react&hide_border=true&stroke=0000&background=060A0CD0"
+    src="https://https://github-readme-streak-stats.herokuapp.com?user=Ganesh&theme=react&hide_border=true&stroke=0000&background=060A0CD0"
   />
   <img
     style="height: 200px; width: 48%"
