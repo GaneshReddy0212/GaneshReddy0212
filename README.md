@@ -107,9 +107,10 @@
   />&nbsp;&nbsp;
 
   
-    <img
+<img
     src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
   />&nbsp;&nbsp;
+    
   <img
     src="https://img.shields.io/badge/GitHub-3181FF?style=for-the-badge&logo=github&logoColor=white"
   />&nbsp;&nbsp;
