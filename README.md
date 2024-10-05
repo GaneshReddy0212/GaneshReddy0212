@@ -86,23 +86,29 @@
   <img
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
   />&nbsp;&nbsp;
+ <img
+    src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"
+  />&nbsp;&nbsp;
+ 
   <img
-    src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+    src="https://img.shields.io/badge/Angular-D50033?style=for-the-badge&logo=angular&logoColor=white"
   />&nbsp;&nbsp;
   <img
-    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-  />&nbsp;&nbsp;
-  <img
-    src="https://img.shields.io/badge/Express.js-FCC624?style=for-the-badge&logo=express&logoColor=black"
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
   />&nbsp;&nbsp;
   <img
     src="https://img.shields.io/badge/ReactJS-330F63?style=for-the-badge&logo=react&logoColor=61DAFB"
   />&nbsp;&nbsp;
-  <img
-    src="https://img.shields.io/badge/Node.js-EA4C89?style=for-the-badge&logo=nodedotjs&logoColor=white"
+   <img
+    src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
   />&nbsp;&nbsp;
   <img
-    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+    src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+  />&nbsp;&nbsp;
+
+  
+    <img
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
   />&nbsp;&nbsp;
   <img
     src="https://img.shields.io/badge/GitHub-3181FF?style=for-the-badge&logo=github&logoColor=white"
