@@ -33,7 +33,7 @@
   <img
     style="height: 200px; width: 48%"
     alt="Ganesh Reddy's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=GaneshReddy0212&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GaneshReddy0212)](https://git.io/streak-stats)
   />
 </p>
 <br />
