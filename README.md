@@ -89,7 +89,6 @@
  <img
     src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"
   />&nbsp;&nbsp;
- 
   <img
     src="https://img.shields.io/badge/Angular-D50033?style=for-the-badge&logo=angular&logoColor=white"
   />&nbsp;&nbsp;
@@ -105,12 +104,9 @@
   <img
     src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
   />&nbsp;&nbsp;
-
-  
 <img
     src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
   />&nbsp;&nbsp;
-    
   <img
     src="https://img.shields.io/badge/GitHub-3181FF?style=for-the-badge&logo=github&logoColor=white"
   />&nbsp;&nbsp;
