@@ -27,31 +27,32 @@
   <img
     style="height: 200px; width: 48%"
     title="Get streak stats for your profile at git.io/streak-stats"
-    alt="Ganesh Reddy's streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?username=GaneshReddy0212&theme=react&hide_border=true&stroke=0000&background=060A0CD0"
+    alt="Ramana Bandapu's streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ramanabandapu&theme=react&hide_border=true&stroke=0000&background=060A0CD0"
   />
   <img
     style="height: 200px; width: 48%"
-    alt="Ganesh Reddy's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=GaneshReddy0212&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+    alt="Ramana Bandapu's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=ramanabandapu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
   />
 </p>
 <br />
 <p>
   <img
     style="height: 200px; width: 48%"
-    alt="GaneshReddy's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshReddy0212&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
+    alt="Ramana Bandapu's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanabandapu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
   />
 
 <img
     style="height: 200px; width: 100%;"
     title="Git Trophy"
-    alt="Ganesh Reddy's streak"
-    src="https://github-profile-trophy.vercel.app/?username=GaneshReddy0212&theme=react&hide_border=true&stroke=0000&background=060A0CD0"
+    alt="Ramana Bandapu's streak"
+    src="https://github-profile-trophy.vercel.app/?username=ramanabandapu&theme=react&hide_border=true&stroke=0000&background=060A0CD0"
   />
 
 </p>
+
 
 <br />
 
