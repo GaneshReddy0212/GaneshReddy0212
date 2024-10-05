@@ -11,11 +11,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m a student pursuing *Full Stack  Development* at [*Masai School*](https://www.masaischool.com/)
+- 🌱 I’m a student pursuing *Full Stack  Development* at [*Naresh IT*](https://nareshit.in/)
 - 👯 Looking forwardd to launching my career as an *SDE*
-- 🤔 All of my projects are available at [*My Github Repositories*](https://github.com/ramanabandapu?tab=repositories)
+- 🤔 All of my projects are available at [*My Github Repositories*](https://github.com/GaneshReddy0212?tab=repositories)
 - 👨🏻‍🎓 Check out My Resume at[ *Ramana-Bandapu-Resume*](https://drive.google.com/file/d/14q5_6vV3iVIXihyaKm-4DRfceGkvtmSX/view?usp=sharing)
-- 💌 Reach out me at [_**kganesh181888@gmail.com**](mailto:bandapu.ramana@gmail.com)
+- 💌 Reach out me at [_**kganesh181888@gmail.com**](mailto:kganesh181888@gmail.com)
 - ⚙️ Technical Skills :.Net Web api, HTML, CSS,Bootstrap, JS,Ts,Angular, SQL Server, MySql,  React.JS,
 
 <p align="center"></p>
