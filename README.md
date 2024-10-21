@@ -63,9 +63,6 @@
   <a href="https://www.linkedin.com/in/GaneshReddy0212/"
     ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"
   /></a>
-  <a href="https://www.instagram.com/ramana_pspk_cult/?hl=en"
-    ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
-  /></a>
 </p>
 
 <a href="https://github.com/GaneshReddy0212/github-profile-views-counter">
